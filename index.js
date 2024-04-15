@@ -34,23 +34,23 @@ function promptUser() {
     .prompt([
       {
         type: "input",
-        message: "What text would you like you logo to display? (Enter up to three characters)",
+        message: "Name for your logo? (Enter up to three characters)",
         name: "text",
       },
       {
         type: "input",
-        message: "Choose text color (Enter color keyword OR a hexadecimal number)",
+        message: "Text color (Enter color keyword OR a hexadecimal number)",
         name: "textColor",
       },
       {
         type: "list",
-        message: "What shape would you like the logo to render?",
+        message: "What shape would you like the logo to be?",
         choices: ["Triangle", "Square", "Circle"],
         name: "shape",
       },
       {
         type: "input",
-        message: "Choose shapes color (Enter color keyword OR a hexadecimal number)",
+        message: "Shape color (Enter color keyword OR a hexadecimal number)",
         name: "shapeBackgroundColor",
       },
     ])
