@@ -41,4 +41,4 @@
   
   # Image
 
-  ![Screen Recording](/Screen%20Recording%202024-04-14%20at%2011.40.38 PM.mov)
+  ![Screen Recording](./Screen%20Recording%202024-04-14%20at%2011.40.38 PM.mov)
