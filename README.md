@@ -50,5 +50,5 @@
 
 ![Screen Recording](/assets/Screen%20Recording%202024-04-14%20at%2011.40.38 PM%20(2).gif)
 
- Screen Recording Link below:
+ Screen Recording Link:
  https://drive.google.com/file/d/1PuJiDNDwEUpMzI7pwHoocuLNmr7a8HdV/view?usp=drive_link
