@@ -14,6 +14,7 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
+  * [URLs, Image, Videos] (#URLs, Image, Videos)
   
   # Installation
   
@@ -37,8 +38,14 @@
   
   # Questions
   
-  If you have any questions about the repo, open an issue or contact santy520 directly sspalacio20@gmail.com.
+  If you have any questions about the repo, open an issue or contact:
   
-  # Image
+  Github: santy520 
+  Email: sspalacio20@gmail.com
+  
+  # URLs, Image, Videos
+  Follow the Link below to access the Github reposatory.
 
-  ![Screen Recording](./Screen%20Recording%202024-04-14%20at%2011.40.38 PM.mov)
+ https://github.com/Santy520/SVG-Logo-Maker/tree/main
+
+ [![Screen Recording] (https://drive.google.com/file/d/1PuJiDNDwEUpMzI7pwHoocuLNmr7a8HdV/view?usp=drive_link)]
