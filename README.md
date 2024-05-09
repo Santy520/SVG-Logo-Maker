@@ -48,4 +48,4 @@
 
  https://github.com/Santy520/SVG-Logo-Maker/tree/main
 
- [![Screen Recording] (https://drive.google.com/file/d/1PuJiDNDwEUpMzI7pwHoocuLNmr7a8HdV/view?usp=drive_link)]
+ ![Screen Recording] (https://drive.google.com/file/d/1PuJiDNDwEUpMzI7pwHoocuLNmr7a8HdV/view?usp=drive_link)
