@@ -14,7 +14,7 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [URLs, Image, Videos] (#URLs, Image, Videos)
+  * [URLs,Image,Videos] (#URLs,Image,Videos)
   
   # Installation
   
@@ -43,7 +43,7 @@
   Github: santy520 
   Email: sspalacio20@gmail.com
   
-  # URLs, Image, Videos
+  # URLs,Image,Videos
   Follow the Link below to access the Github reposatory.
 
  https://github.com/Santy520/SVG-Logo-Maker/tree/main
